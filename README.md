@@ -8,7 +8,7 @@ Dockerfile to build GitLab image with custom logo images
 ```
 $ git clone https://github.com/yacchin1205/docker-gitlab-customlogo.git
 $ cd docker-gitlab-customlogo
-$ docker build -t docker-gitlab-customlogo
+$ docker build -t docker-gitlab-customlogo .
 ```
 
 #How to run
